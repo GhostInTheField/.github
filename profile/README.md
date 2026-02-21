@@ -1,4 +1,4 @@
-# 👻 Ghost In The Field
+# Ghost In The Field
 
 Make everything smart by creating an architectural model implemented for:
 - IoT systems
