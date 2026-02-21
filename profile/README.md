@@ -17,6 +17,7 @@ Core specification:
 -   Ghost-RFC-0002 --- Identity Model
 -   Ghost-RFC-0003 --- Message Contract
 -   Ghost-RFC-0004 --- Capability Model
+-   Ghost-RFC-0005 —-- Error Contract
 
 Open. Specification-first. Implementation-neutral.
 
