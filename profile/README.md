@@ -3,15 +3,6 @@ GhostInTheField
 
 GhostInTheField hosts the **Ghost Open Standard**.
 
-Make everything smart by creating an architectural model implemented for:
-- IoT systems
-- IIoT systems
-- field automation
-- home automation
-- phygital systems
-- distributed interactive environments
-  
-
 Ghost is an open architectural foundation for distributed automation systems, built around:
 
 -   persistent identity
@@ -28,3 +19,11 @@ Core specification:
 -   Ghost-RFC-0004 --- Capability Model
 
 Open. Specification-first. Implementation-neutral.
+
+Ghost can be implemented for:
+- IoT systems
+- IIoT systems
+- field automation
+- home automation
+- phygital systems
+- distributed interactive environments
